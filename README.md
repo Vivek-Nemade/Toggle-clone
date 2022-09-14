@@ -28,4 +28,12 @@
 
 1. Landing page
 
-![image](homepage.jpg)
+![image](assests/homepage.png) 
+
+2. SignUp Page
+
+![image](assests/Signup.png) 
+
+3. Login Page
+
+![image](assests/Login.png) 
