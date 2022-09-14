@@ -26,3 +26,6 @@
 
 <h1>Snapshots of our project</h1>
 
+1. Landing page
+
+![image](homepage.jpg)
